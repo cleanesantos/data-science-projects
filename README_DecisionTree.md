@@ -17,7 +17,7 @@ Decision tree classifier to predict diabetes diagnosis based on clinical measure
 - Base 3: Global mean imputation
 - Base 4: Global median imputation
 - Base 5: MICE imputation
-- Base 6: Conditional median imputation ⭐ (Selected)
+- Base 6: Conditional median imputation  (Selected)
 - Base 7: MICE + SMOTE
 - Base 8: Conditional median + SMOTE
 
